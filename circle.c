@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main() {
+int main() {
     float r,c ;
     const float pi=3.14;
 printf ("enter value of r");    

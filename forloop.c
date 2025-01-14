@@ -1,4 +1,4 @@
-// for repeating the your name in loop 
+// for repeating your name in loop 
 #include <stdio.h>
 void main(){
     int i ;
@@ -51,4 +51,12 @@ for(i=1;i<=10;i++){
     mul=num*i;
     printf("\n%d * %d = %d",i,num,mul);
 }    
+}
+
+// odd number
+#include <stdio.h>
+void main (){
+    int num, i, odd;
+    printf("enter number");
+    scanf("%d",&num)
 }
